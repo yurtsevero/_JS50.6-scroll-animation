@@ -1,2 +1,2 @@
-# _JS50.3-rotating-navigation
-# Rotating Navigation Bar
+# _JS50.6-scrolling animation
+# Content is being displayed by scrolling down with slide effect
